@@ -1,5 +1,4 @@
 /*
- * animate:珠峰培训TWEEN算法动画库,采用惰性思想进行封装,包含了很多的、常用的、高级的运动方式
  * @parameter
  *   curEle:[object]我们当前要操作的元素,让这个元素有运动的效果
  *   options:[object]我们目标位置的样式值

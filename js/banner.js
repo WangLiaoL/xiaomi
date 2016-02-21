@@ -86,7 +86,7 @@ window.onload=function(){
             }(i)
         }
     }
-    window.setTimeout(delayImg, 500);
+    window.setTimeout(delayImg, 50);
     function autoMove() {
         step++;
         if (step > 5) {
